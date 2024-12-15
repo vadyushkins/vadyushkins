@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=vadyushkins&icon=0&color=3)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on https://t.me/tehgid<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning GoLang and Distributed Systems<br>💬 Ask me about Python
 
@@ -19,6 +21,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vadyushkins&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vadyushkins&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
